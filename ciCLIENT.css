@@ -39,7 +39,7 @@
         epNav {
             display: flex;
             flex-wrap: wrap;
-            gap: 15px;
+            gap: 35px;
         }
 
         epNav a {
